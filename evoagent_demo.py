@@ -1,2 +1,2 @@
 def evaluate_user_input(value):
-    return eval(value)
+    return str(value)
